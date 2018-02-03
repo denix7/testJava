@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=monto
+comment0.target=void\ debito(double)
+comment1.params=
+comment1.target=double\ balanceActual()
+comment2.params=balanceActual
+comment2.target=void\ setBalanceActual(double)
+comment3.params=monto_actual
+comment3.target=void\ setMontoAct(double)
+numComments=4

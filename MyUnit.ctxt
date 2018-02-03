@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=one\ two
+comment0.target=java.lang.String\ concatenate(java.lang.String,\ java.lang.String)
+numComments=1
